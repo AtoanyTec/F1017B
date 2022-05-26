@@ -1,3 +1,7 @@
+
+%MatlabCode
+%https://la.mathworks.com/help/matlab/ref/interp1.html
+
 % Interpolación
 
 clc
